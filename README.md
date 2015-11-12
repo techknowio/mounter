@@ -5,10 +5,9 @@ Currently Supports Mac OS X And Windows 10
 
 You must have installed:
 
-For All Operating Systems:
-python 2.7
-and for Windows
-pywin32
+For All Operating Systems: python 2.7
+
+Added for Windows: pywin32
 
 
 
