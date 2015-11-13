@@ -31,4 +31,4 @@ Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "D
 
 [Icons]
 Name: "{group}\Techknow Webdav Mounter"; Filename: "{app}\mounter.exe"
-Name: "{commondesktop}\Techknow Webdav Mounter"; Filename: "{app}\mounter.exe"; Tasks: desktopicon; IconFilename: "C:\Users\John\Desktop\icon.ico"
+Name: "{commondesktop}\Techknow Webdav Mounter"; Filename: "{app}\mounter.exe"; Tasks: desktopicon; IconFilename: "{app}\icon.ico"
