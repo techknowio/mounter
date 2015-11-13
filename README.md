@@ -3,12 +3,13 @@ Mounter is a simple python Application that will mount the Techknow.io Webdav sy
 
 Currently Supports Mac OS X And Windows 10
 
-You must have installed:
+Windows 10 - You can just use the installer, it works well, creates a Desktop Icon
 
+
+To run the source you must have installed:
 For All Operating Systems: python 2.7
 
-Added for Windows: pywin32
-
+Also Included are all the script files to build this from scratch yourself including the inno builder, and build.py for py2exe
 
 
 ![Sample](sample.png)

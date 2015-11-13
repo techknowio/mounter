@@ -1,3 +1,11 @@
+0.0.2
+Remove _winreg as it's not required anymore
+updated sample.png
+Created A Windows Installer
+Created A OS X App
+Included Inno Script 
+Added build.py for building py2exe
+
 0.0.1.1
 Removed runas requirements for basic auth (commented out, will push that then remove that, code is too cool to miss out)
 enabled https to cloud.techknow.io, and digest auth (server side)
