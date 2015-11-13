@@ -1,0 +1,8 @@
+0.0.1.1
+Removed runas requirements for basic auth (commented out, will push that then remove that, code is too cool to miss out)
+enabled https to cloud.techknow.io, and digest auth (server side)
+Updated logo Thanks Tony!
+Added A CHANGELOG
+
+0.0.1
+Initial Release
